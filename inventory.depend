@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1606239786 source:/home/shr/Desktop/submitting project/inventory/input_.cpp
+	"input_.h"
+	<cstring>
+
+1606234033 /home/shr/Desktop/submitting project/inventory/input_.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1606231343 source:/home/shr/Desktop/submitting project/inventory/main.cpp
+	"student.h"
+	"input_.h"
+
+1606228889 /home/shr/Desktop/submitting project/inventory//student.h
+	<iostream>
+	<fstream>
+
+1606239709 source:/home/shr/Desktop/submitting project/inventory/student.cpp
+	"student.h"
+
+1606234395 /home/shr/Desktop/submitting project/inventory/student.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	"input_.h"
+
