@@ -34,10 +34,6 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="account.cpp" />
-		<Unit filename="account.h" />
-		<Unit filename="employee.cpp" />
-		<Unit filename="employee.h" />
 		<Unit filename="input_.cpp" />
 		<Unit filename="input_.h" />
 		<Unit filename="main.cpp" />

@@ -26,3 +26,12 @@
 	<cstring>
 	"input_.h"
 
+1703853360 source:/home/shr/zram/std/1/student_inventory_C/input_.cpp
+	"input_.h"
+	<cstring>
+
+1703853360 /home/shr/zram/std/1/student_inventory_C/input_.h
+	<iostream>
+	<string>
+	<iomanip>
+

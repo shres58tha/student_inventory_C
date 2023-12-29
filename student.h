@@ -10,7 +10,7 @@
 using namespace std;
   // name of the data file
 
-class student : public account{    // student object with all in one, use the global input_ for auto error handling
+class student {    // student object with all in one, use the global input_ for auto error handling
 private:
     char datafile[MAX_CH];
     char name[MAX_CH], add[MAX_CH],phone[MAX_CH];
